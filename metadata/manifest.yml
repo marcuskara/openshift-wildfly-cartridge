@@ -3,12 +3,12 @@ Cartridge-Short-Name: WILDFLY
 Display-Name: WildFly Application Server 8.2.0.Final
 Description: "The leading open source Java EE7 application server for enterprise Java applications. Popular development frameworks include CDI, DeltaSpike and Spring"
 Version: '8'
-Source-Url: https://github.com/openshift-cartridges/openshift-wildfly-cartridge/archive/wildfly-8.zip
+Source-Url: https://github.com/marcuskara/openshift-wildfly-cartridge/archive/master.zip
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: JBoss
-Cartridge-Version: '0.0.6'
-Cartridge-Vendor: jboss
+Cartridge-Version: '0.0.7'
+Cartridge-Vendor: oxar
 Categories:
   - service
   - web_framework
